@@ -1,0 +1,32 @@
+[
+  {
+    "city": "petalborough",
+    "title": "Petal Premium Sedan",
+    "kind": "car"
+  },
+  {
+    "city": "petalborough",
+    "title": "Budget Wheels Compact",
+    "kind": "car"
+  },
+  {
+    "city": "rustburg",
+    "title": "Rustburg Luxury SUV",
+    "kind": "car"
+  },
+  {
+    "city": "rustburg",
+    "title": "Metro Rentals Van",
+    "kind": "car"
+  },
+  {
+    "city": "shaleport",
+    "title": "Shaleport Electric Vehicle",
+    "kind": "car"
+  },
+  {
+    "city": "shaleport",
+    "title": "Coastal Convertible",
+    "kind": "car"
+  }
+]

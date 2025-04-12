@@ -1,0 +1,37 @@
+[
+  {
+    "city": "petalborough",
+    "title": "Grand Petal Hotel",
+    "kind": "hotel"
+  },
+  {
+    "city": "petalborough",
+    "title": "Petalborough Inn",
+    "kind": "hotel"
+  },
+  {
+    "city": "rustburg",
+    "title": "Rustburg Plaza",
+    "kind": "hotel"
+  },
+  {
+    "city": "rustburg",
+    "title": "Historic Rustburg Lodge",
+    "kind": "hotel"
+  },
+  {
+    "city": "shaleport",
+    "title": "Shaleport Beach Resort",
+    "kind": "hotel"
+  },
+  {
+    "city": "shaleport",
+    "title": "Harbor View Suites",
+    "kind": "hotel"
+  },
+  {
+    "city": "springfield",
+    "title": "Springfield Grand",
+    "kind": "hotel"
+  }
+]
